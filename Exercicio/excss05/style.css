@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1#pricipal {
+    text-align: center;
+    font-family:"Lora", serif;
+    background-color: rgba(165, 42, 42, 0.514);
+}
+    
+h1 {
+    font-family: "IBM Plex Mono", serif;
+  
+}
+
+h2 {
+    font-family:"Pochaevsk", serif;
+  
+}
+
+.basico {
+    color: brown;
+}
+
+.avancado {
+    color: brown;
+}
+
+.intermediario {
+
+    color: brown;
+}
+
+.htmlbasico {
+    color: brown;
+}
+
+.intermedio {
+    color: brown;
+}
+
+.texto {
+    color: rgb(255, 174, 0);
+}
